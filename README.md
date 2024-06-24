@@ -1,6 +1,6 @@
 ## Bem Vindo Ao Meu Perfil 💙
 
-Meu nome é João Pedro, Mais podem me chamar de araujo
+Meu nome é João Pedro, Mais podem me chamar de *Araujo*
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagme de progrmação JavaScript
