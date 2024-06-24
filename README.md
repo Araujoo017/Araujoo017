@@ -11,6 +11,6 @@ Meu nome é João Pedro, Mais podem me chamar de *Araujo*
 
 📫 joaopedrosouza1107@gmail.com
 
-Ou também, pelo meu [Instagram](https://www.instagram.com/_araujo017?igsh=c2s3emxxZjZoMmFo&utm_source=qr)
+Ou também, Pelo meu [Instagram](https://www.instagram.com/_araujo017?igsh=c2s3emxxZjZoMmFo&utm_source=qr)
 
 ![](https://media1.tenor.com/m/rKLBka9zl5UAAAAd/yeah-excellent.gif)
