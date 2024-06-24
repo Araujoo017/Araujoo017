@@ -2,9 +2,10 @@
 
 Meu nome é João Pedro, Mais podem me chamar de *Araujo*
 
-- Estou estudando na [Alura](https://www.alura.com.br)
+- Sou estudante [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagme de progrmação JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos (por minha pessoa)
+- Aqui deixarei uma forma mais simplificada de *Download* de progetos desenvolvidos na [Alura](https://www.alura.com.br)
 
 ### Você pode entrar em contato comigo 📫
 
